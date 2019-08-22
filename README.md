@@ -1,2 +1,2 @@
 # output_csv
-phpででーたをcsvファイルに出力する
+phpでデータをcsvファイルに出力する
